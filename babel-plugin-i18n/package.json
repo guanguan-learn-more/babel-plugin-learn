@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/generator": "^7.15.4",
+    "@babel/helper-plugin-utils": "^7.14.5"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}

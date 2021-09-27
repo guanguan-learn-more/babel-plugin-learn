@@ -1,0 +1,1 @@
+{"version":3,"file":"main.12f5635d.js","mappings":"AACAA,QAAQC,GAAG","sources":["webpack://babel-config-demo/./cli.js"],"sourcesContent":["const name = 'Joy Guan'\nconsole.lg(1111);\n\n\n\n\n"],"names":["console","lg"],"sourceRoot":""}
